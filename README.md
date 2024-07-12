@@ -1,1 +1,1 @@
-#this is my restraunt website named GOVINDA'S BISTRO made from html css
+# this is my restaurant website named GOVINDA'S BISTRO made from html css
